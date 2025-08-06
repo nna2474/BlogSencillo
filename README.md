@@ -44,8 +44,8 @@ Este es un blog minimalista y moderno desarrollado como proyecto fullstack. Perm
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/nombre-del-repo.git
-    cd nombre-del-repo
+    git clone https://github.com/nna2474/BlogSencillo.git
+    cd BlogSencillo
     docker compose up --build
     ```
 
